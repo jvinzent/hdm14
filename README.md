@@ -10,3 +10,5 @@ Le script lance ensuite extract_presence.py pour identifier les élus présents,
 
 - Website : Pages html construites à base de LayoutIt lors du hackaton afin de présenter les résultats principaux (disponibles dans le répertoire /data).
 Note : en l'absence de validation (vérification aléatoire dans les registres de présence / contact des intéressés), les données ne sont qu'indicatives, notamment pour Nora Remadnia-Preziosi.
+
+L'équipe : François Bourgault, François Briatte, Joël Gombin et Julien Vinzent.

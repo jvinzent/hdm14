@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 # HDM14
-# Parse une fichier xml (pdf extrait) pour y rechercher les dates de pv de seance ainsi que les noms des conseillers etant presents
+# Parse une fichier xml (pdf extrait) pour y rechercher les dates de pv de seance ainsi que les noms des conseillers étant présents
 # En sortie, on obtient leur liste en format csv
 # TODO : Stocker les noms dans une variable afin de pouvoir les reconnaitre lorsque le format xml saute (ex. : 394.pdf)
 

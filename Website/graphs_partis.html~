@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Conseil municipal de Marseille : les secteurs</title>
+  <title>Conseil municipal de Marseille : les partis</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="">
   <meta name="author" content="">
@@ -42,16 +42,16 @@
 			 <a href="graphs_cancres.html" class="btn btn-lg">Les Cancres</a>
 		</div>
 		<div class="col-md-4 column">
-			 <a href="graphs_partis.html" class="btn btn-lg">Par parti</a>
+			 <a href="graphs_partis.html" class="btn btn-lg btn-primary">Par parti</a>
 		</div>
 		<div class="col-md-4 column">
-			 <a href="graphs_secteurs.html" class="btn btn-lg btn-primary">Par secteur</a>
+			 <a href="graphs_secteurs.html" class="btn btn-lg">Par secteur</a>
 		</div>
 	</div>
 	<div class="row clearfix">
 		<div class="col-md-8 column">
 			
-			<iframe src="http://cf.datawrapper.de/1iWSI/3/" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" width="600" height="400"></iframe>
+			<iframe src="http://cf.datawrapper.de/bQZ2R/2/" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" width="600" height="350"></iframe>
 		</div>
 		<div class="col-md-4 column">
 			<dl>

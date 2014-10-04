@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Conseil municipal de Marseille : les secteurs</title>
+  <title>Conseil municipal de Marseille : les cancres</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="">
   <meta name="author" content="">
@@ -39,19 +39,19 @@
 <div class="container">
 	<div class="row clearfix">
 		<div class="col-md-4 column">
-			 <a href="graphs_cancres.html" class="btn btn-lg">Les Cancres</a>
+			 <a href="graphs_cancres.html" class="btn btn-lg btn-primary">Les Cancres</a>
 		</div>
 		<div class="col-md-4 column">
 			 <a href="graphs_partis.html" class="btn btn-lg">Par parti</a>
 		</div>
 		<div class="col-md-4 column">
-			 <a href="graphs_secteurs.html" class="btn btn-lg btn-primary">Par secteur</a>
+			 <a href="graphs_secteurs.html" class="btn btn-lg">Par secteur</a>
 		</div>
 	</div>
 	<div class="row clearfix">
 		<div class="col-md-8 column">
 			
-			<iframe src="http://cf.datawrapper.de/1iWSI/3/" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" width="600" height="400"></iframe>
+			<iframe src="http://cf.datawrapper.de/oJBT3/2/" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" width="600" height="400"></iframe>
 		</div>
 		<div class="col-md-4 column">
 			<dl>
@@ -65,7 +65,7 @@
 					La méthode
 				</dt>
 				<dd>
-					Pour obtenir les données derrière ces graphiques, Marsactu a téléchargé tous les recueils des <a class="couleurlien" href="/data/313.pdf">actes administratifs</a> en ligne sur le site internet de la ville de Marseille. C'est dans ces documents que l'on trouve occasionnellement les relevés de présence au conseil municipal, avant le procès verbal de chaque séance. Après un traitement automatisé des fichiers, nous avons extrait les données pour chaque élu. En l'absence de recueils pour les conseils municipaux de fin 2013, nous avons dû arrêter le champ de notre enquête en juillet.
+					Pour obtenir les données derrière ces graphiques, Marsactu a téléchargé tous les recueils des <a class="couleurlien" href="/data/313.pdf">actes administratifs</a> en ligne sur le site internet de la ville de Marseille. C'est dans ces documents que l'on trouve occasionnellement les relevés de présence au conseil municipal, avant le procès verbal de chaque séance. Après un traitement automatisé des fichiers, nous avons extrait les données pour chaque élu. Elles sont brutes, c'est-à-dire qu'elles ne tiennent pas compte d'éventuelles absences excusées (maladie...). En l'absence de recueils pour les conseils municipaux de fin 2013, nous avons dû arrêter le champ de notre enquête en juillet.
 				</dd>
 				<dt class="couleurdt">
 					Une erreur ? Un commentaire ?
